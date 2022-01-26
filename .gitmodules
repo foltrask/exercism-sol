@@ -1,3 +1,15 @@
 [submodule "elisp"]
 	path = elisp
 	url = ./elisp
+[submodule "haskell"]
+	path = haskell
+	url = ./haskell/
+[submodule "lisp"]
+	path = lisp
+	url = ./lisp/
+[submodule "python"]
+	path = python
+	url = ./python/
+[submodule "rust"]
+	path = rust
+	url = ./rust/
